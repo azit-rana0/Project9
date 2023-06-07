@@ -32,7 +32,7 @@
 
   header{
     background-image: linear-gradient(#00000080, #00000080),
-    url(../Project-Image/project9/photo/mainBackground.png);
+    url(./image/mainBackground.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
